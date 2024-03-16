@@ -1,1 +1,2 @@
-print("Git is awesome!")
+gretting = input("Enter your gretting: ")
+print(gretting)
